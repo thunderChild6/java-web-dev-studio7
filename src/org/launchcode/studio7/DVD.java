@@ -1,6 +1,6 @@
 package org.launchcode.studio7;
 
-public class DVD {
+public class DVD extends BaseDisc implements OpticalDiscInterface {
 
     // TODO: Implement your custom interface.
 
